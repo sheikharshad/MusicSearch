@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BEB08FFC-CDDA-46DC-9C5C-A2B2D8FD63C8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3BC6AAC-C051-4094-A271-EA78CA02C169"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicSearch/DataLayer/CoreAPIBuilder/WebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "request(from:decoder:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C3BC6AAC-C051-4094-A271-EA78CA02C169 - 22f8022c4e03625c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[2] = Dead&gt; of generic specialization &lt;Foundation.JSONDecoder&gt; of function signature specialization &lt;Arg[1] = Existential To Protocol Constrained Generic&gt; of generic specialization &lt;MusicSearch.SearchRepository, MusicSearch.AudioScrobblerAPI, MusicSearch.SearchResponseModel&gt; of MusicSearch.WebService.request&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: MusicSearch.APIBuilder, &#x3c4;_1_1: Swift.Decodable&gt;(from: &#x3c4;_1_0, decoder: MusicSearch.DecoderType) -&gt; Combine.AnyPublisher&lt;&#x3c4;_1_1, MusicSearch.APIError&gt;"
+                  moduleName = "MusicSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ashaikh/Documents/HM/Practice/ass/MusicSearch-main/MusicSearch/DataLayer/CoreAPIBuilder/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+               <Location
+                  uuid = "C3BC6AAC-C051-4094-A271-EA78CA02C169 - 8a83160792c770de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[2] = Dead&gt; of generic specialization &lt;Foundation.JSONDecoder&gt; of function signature specialization &lt;Arg[1] = Existential To Protocol Constrained Generic&gt; of generic specialization &lt;MusicSearch.AlbumRepository, MusicSearch.AudioScrobblerAPI, MusicSearch.AlbumResponseModel&gt; of MusicSearch.WebService.request&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: MusicSearch.APIBuilder, &#x3c4;_1_1: Swift.Decodable&gt;(from: &#x3c4;_1_0, decoder: MusicSearch.DecoderType) -&gt; Combine.AnyPublisher&lt;&#x3c4;_1_1, MusicSearch.APIError&gt;"
+                  moduleName = "MusicSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ashaikh/Documents/HM/Practice/ass/MusicSearch-main/MusicSearch/DataLayer/CoreAPIBuilder/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "923EAB09-37E6-4E19-B983-227A5F067F22"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicSearch/DataLayer/CoreAPIBuilder/WebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "request(from:decoder:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "923EAB09-37E6-4E19-B983-227A5F067F22 - 22f8022c4e0365ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[2] = Dead&gt; of generic specialization &lt;Foundation.JSONDecoder&gt; of function signature specialization &lt;Arg[1] = Existential To Protocol Constrained Generic&gt; of generic specialization &lt;MusicSearch.SearchRepository, MusicSearch.AudioScrobblerAPI, MusicSearch.SearchResponseModel&gt; of MusicSearch.WebService.request&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: MusicSearch.APIBuilder, &#x3c4;_1_1: Swift.Decodable&gt;(from: &#x3c4;_1_0, decoder: MusicSearch.DecoderType) -&gt; Combine.AnyPublisher&lt;&#x3c4;_1_1, MusicSearch.APIError&gt;"
+                  moduleName = "MusicSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ashaikh/Documents/HM/Practice/ass/MusicSearch-main/MusicSearch/DataLayer/CoreAPIBuilder/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "923EAB09-37E6-4E19-B983-227A5F067F22 - 8a83160792c77768"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[2] = Dead&gt; of generic specialization &lt;Foundation.JSONDecoder&gt; of function signature specialization &lt;Arg[1] = Existential To Protocol Constrained Generic&gt; of generic specialization &lt;MusicSearch.AlbumRepository, MusicSearch.AudioScrobblerAPI, MusicSearch.AlbumResponseModel&gt; of MusicSearch.WebService.request&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_1_0: MusicSearch.APIBuilder, &#x3c4;_1_1: Swift.Decodable&gt;(from: &#x3c4;_1_0, decoder: MusicSearch.DecoderType) -&gt; Combine.AnyPublisher&lt;&#x3c4;_1_1, MusicSearch.APIError&gt;"
+                  moduleName = "MusicSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ashaikh/Documents/HM/Practice/ass/MusicSearch-main/MusicSearch/DataLayer/CoreAPIBuilder/WebService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "528">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B7A6F52-1341-47A5-8BC7-2A1A5D60D8EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicSearch/Scenes/Search/Helper/SearchPaging.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "page(number:contentCount:onCompletion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D91CD6B0-133D-48E2-98F4-F5B3E8EA679F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicSearch/Scenes/Search/Helper/SearchPaging.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "page(number:contentCount:onCompletion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1428DBA4-DA8E-46FC-9E4F-67EA33D8E588"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicSearch/Utility/PagingHelper/Paging.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "fetch(onCompletion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4CDA06FC-C1D4-4077-8104-26FC105B7E82"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicSearch/DataLayer/CoreAPIBuilder/WebService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "decode(data:for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

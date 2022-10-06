@@ -1,0 +1,11 @@
+//
+//  QA.xcconfig
+//  Market Place
+//
+//  Created by Arshad shaikh on 05/10/2022.
+//
+//
+SCROBBLER_BASE_URL = ws.audioscrobbler.com
+SCROBBLER_TOKEN = 7ac604d3ca628eb9e3746c61f5620da5
+DEFAULT_TIMEZONE = Europe/London
+
